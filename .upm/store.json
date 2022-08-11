@@ -1,0 +1,1 @@
+{"version":2,"languages":{"nodejs-npm":{"specfileHash":"c83cd9ad2d04579a981d7eeec8d3d7fd","lockfileHash":"23171b808892aba382a3dc9da0330036","guessedImports":["discord.js","@discordjs/rest","@replit/database","chartjs-node-canvas"],"guessedImportsHash":"ba9fd73390271be22cb502df37e89c04"}}}
